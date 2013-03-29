@@ -42,7 +42,7 @@ $(document).ready(function(){
 
 	 			$(on).hide();
 	 		}
-	 			$("#thobbies").css("color","");
+	 			$("#thobbies").css("color","white");
 	 	on="#hobbies";
 	 });
 	 $('#tabout').click(function() {
@@ -55,7 +55,7 @@ $(document).ready(function(){
 
 	 			$(on).hide();
 	 		}
-	 			$("#tabout").css("color","");
+	 			$("#tabout").css("color","white");
 	 	on="#aboutme";
 	 });
 });
