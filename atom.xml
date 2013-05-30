@@ -4,7 +4,7 @@
   <title><![CDATA[knight owl]]></title>
   <link href="http://gshubham55.github.io/atom.xml" rel="self"/>
   <link href="http://gshubham55.github.io/"/>
-  <updated>2013-05-31T05:08:58+05:30</updated>
+  <updated>2013-05-31T05:25:44+05:30</updated>
   <id>http://gshubham55.github.io/</id>
   <author>
     <name><![CDATA[Shubham Gupta]]></name>
@@ -20,7 +20,30 @@
     <id>http://gshubham55.github.io/blog/2013/05/16/why-the-hell-are-you-still-alive</id>
     <content type="html"><![CDATA[<p><img src="http://s23.postimg.org/6sxf2fgzf/blog1.png" title="Clearpress Theme" ></p>
 
-<p>After going through a heckload of themes, I short-listed a few of them, only to realise that somt of hem are already in use by my friends. <a href="http://abhikandoi.in">Abhishek Kandoi</a> used Fabric for his blog.lol</p>
+<p>After going through a heckload of themes, I short-listed a few of them, only to realise that my friends already had dibs on most of them.<!-- more --></p>
+
+<p><a href="http://abhikandoi.in">Abhishek Kandoi</a> used Fabric for his blog. <a href="http://shashankmahta.in">Shashank Mehta</a> used greyshade whick he designed hmself (impressive!).</p>
+
+<p>Later I came across <a href="https://github.com/macjasp/cleanpress">cleanpress</a> which is an &ldquo;elegant, clean &amp; white minimal and responsive theme for <a href="http://octopress.org">Octopress</a>.&rdquo;</p>
+
+<p>It was clean as promised and a candy for the eye (girly, is it?). It became an instant choice.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cleanpress Theme for Octopress]]></title>
+    <link href="http://gshubham55.github.io/blog/2013/05/16/cleanpress-theme-for-octopress/"/>
+    <updated>2013-05-16T19:23:00+05:30</updated>
+    <id>http://gshubham55.github.io/blog/2013/05/16/cleanpress-theme-for-octopress</id>
+    <content type="html"><![CDATA[<p><img src="http://s23.postimg.org/6sxf2fgzf/blog1.png" title="Clearpress Theme" ></p>
+
+<p>After going through a heckload of themes, I short-listed a few of them, only to realise that my friends already had dibs on most of them.<!-- more --></p>
+
+<p><a href="http://abhikandoi.in">Abhishek Kandoi</a> used Fabric for his blog. <a href="http://shashankmahta.in">Shashank Mehta</a> used greyshade whick he designed hmself (impressive!).</p>
+
+<p>Later I came across <a href="https://github.com/macjasp/cleanpress">cleanpress</a> which is an &ldquo;elegant, clean &amp; white minimal and responsive theme for <a href="http://octopress.org">Octopress</a>.&rdquo;</p>
+
+<p>It was clean as promised and a candy for the eye (girly, is it?). It became an instant choice.</p>
 ]]></content>
   </entry>
   
